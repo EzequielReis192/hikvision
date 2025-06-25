@@ -1,0 +1,12 @@
+{
+  "name": "camera-server",
+  "version": "1.0.0",
+  "description": "Servidor para receber dados da câmera via multipart/form-data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "raw-body": "^2.5.1"
+  }
+}
